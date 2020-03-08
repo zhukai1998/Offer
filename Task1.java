@@ -1,4 +1,3 @@
-package com.zhukai.offer;
 /**
  * 在一个二维数组中（每一个一维数组的长度相同），每一行都按照从左往右递增的顺序排序，
  * 每一列都按照从上往下递增的顺序排序。
@@ -18,7 +17,7 @@ package com.zhukai.offer;
  * 若是大于，则继续比较二维数组 y 的第二个一维数组的最后一个元素
  * 若是小于，则继续比较二维数组 y 的第一个一维数组的（该一维数组长度 - 1） 个元素
  */
-public class Offer1
+public class Task1
 {
     public static void main(String[] args)
     {
