@@ -19,11 +19,6 @@
  */
 public class Task1
 {
-    public static void main(String[] args)
-    {
-        int [][] a = new int[][]{{1, 2, 3, 4}, {2, 3, 4, 5}, {3, 4, 5, 6}, {4, 5, 6, 7}};
-        new Offer1().find(3, a);
-    }
     /**
      * 二维数组参考
      * {1, 2, 3, 4},
