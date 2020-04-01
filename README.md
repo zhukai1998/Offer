@@ -1,6 +1,10 @@
 # Offer
 剑指 Offer 刷题
 
+- [第一题：二维数组中的查找](./01/README.md)
+- [第二题：替换空格](./02/README.md)
+- [第三题：从尾到头打印链表](./03/README.md)
+
 # 数据结构——时间复杂度和空间复杂度到底是什么
 - 余愚钝，手抄博客[Coder编程](https://www.cnblogs.com/coder-programming/p/11093608.html)
 - 前言
